@@ -15,6 +15,5 @@ page_sections:
   block: media-1
 - template: 4-column-footer
   block: footer-2
-published: false
 
 ---
