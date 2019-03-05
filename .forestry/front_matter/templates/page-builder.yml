@@ -33,4 +33,5 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
+- the-mana-vibe.md
 - index.md
